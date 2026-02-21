@@ -106,7 +106,7 @@ header {
     position: absolute;
     width: 100%;
     height: 100%;
-    background: linear-gradient(to bottom, rgba(10, 10, 10, 0.7), rgba(10, 10, 10, 0.9)), url('logo.jpg') center/cover no-repeat;
+    background: linear-gradient(to bottom, rgba(10, 10, 10, 0.7), rgba(10, 10, 10, 0.9)), url('logo.png') center/cover no-repeat;
     filter: blur(4px);
     z-index: -1;
     transform: scale(1.1);
